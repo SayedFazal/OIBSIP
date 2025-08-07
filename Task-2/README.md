@@ -1,4 +1,3 @@
-<img width="2832" height="1642" alt="image" src="https://github.com/user-attachments/assets/fe3a399a-91c8-48b4-ab42-8c3a4ae02d1f" />
 # 💼 Portfolio Website
 
 This is a simple personal **Portfolio Website** created as part of **Task 2** for the **Web Development and Designing Internship** at **Oasis Infobyte**.
