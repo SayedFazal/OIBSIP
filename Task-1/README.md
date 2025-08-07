@@ -1,6 +1,9 @@
 # 🌐 Landing Page
 
 This is a simple and responsive **Landing Page** created as part of **Task 1** for the **Web Development and Designing Internship** at **Oasis Infobyte**.
+<img width="2832" height="1642" alt="image" src="https://github.com/user-attachments/assets/eff6e3ac-7f9b-4d35-82c4-9bd3d967b69a" />
+
+<img width="2838" height="1639" alt="image" src="https://github.com/user-attachments/assets/7fed07f1-79da-44b7-8c61-d4cc76a8de1d" />
 
 ## Project Structure
 
